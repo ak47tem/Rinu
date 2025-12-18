@@ -1,0 +1,8 @@
+{
+  "name": "Rinu",
+  "description": "A real-time video calling application with AI, featuring adjustable video quality (SD, HD, 4K) and low-latency voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
